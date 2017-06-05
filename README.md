@@ -1,1 +1,1 @@
-# SimpleBlog
+# SimpleBlog (React,Flask,MYSQL)
