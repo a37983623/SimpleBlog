@@ -1,0 +1,25 @@
+#content{
+    width:800px;
+}
+.post{
+    border-top: grey;
+    border-top-style: dotted;
+    border-top-width: thin;
+}
+.post:hover{
+    cursor: pointer;
+    background-color:rgba(0,0,0,.075);
+}
+.user-and-date{
+    font-weight:600;
+    margin:10px;
+}
+.post-content{
+    padding:0px 20px 20px 20px;
+}
+#pagination-container{
+    float:right;
+}
+
+.post-input{
+}
